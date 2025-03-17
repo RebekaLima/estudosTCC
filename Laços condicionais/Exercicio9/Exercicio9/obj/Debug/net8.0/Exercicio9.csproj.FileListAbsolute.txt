@@ -1,0 +1,15 @@
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\bin\Debug\net8.0\Exercicio9.exe
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\bin\Debug\net8.0\Exercicio9.deps.json
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\bin\Debug\net8.0\Exercicio9.runtimeconfig.json
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\bin\Debug\net8.0\Exercicio9.dll
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\bin\Debug\net8.0\Exercicio9.pdb
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\obj\Debug\net8.0\Exercicio9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\obj\Debug\net8.0\Exercicio9.AssemblyInfoInputs.cache
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\obj\Debug\net8.0\Exercicio9.AssemblyInfo.cs
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\obj\Debug\net8.0\Exercicio9.csproj.CoreCompileInputs.cache
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\obj\Debug\net8.0\Exercicio9.sourcelink.json
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\obj\Debug\net8.0\Exercicio9.dll
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\obj\Debug\net8.0\refint\Exercicio9.dll
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\obj\Debug\net8.0\Exercicio9.pdb
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\obj\Debug\net8.0\Exercicio9.genruntimeconfig.cache
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\Exercicio9\Exercicio9\obj\Debug\net8.0\ref\Exercicio9.dll
