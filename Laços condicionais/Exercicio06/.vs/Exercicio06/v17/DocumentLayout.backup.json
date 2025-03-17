@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\La\u00E7os condicionais\\Exercicio06\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC904F65-491C-4981-9026-9217B74F81C5}|Exercicio06\\Exercicio06.csproj|c:\\users\\rebek\\onedrive\\documentos\\tcc\\tcc estudos\\la\u00E7os condicionais\\exercicio06\\exercicio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC904F65-491C-4981-9026-9217B74F81C5}|Exercicio06\\Exercicio06.csproj|solutionrelative:exercicio06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\La\u00E7os condicionais\\Exercicio06\\Exercicio06\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio06\\Program.cs",
+              "ToolTip": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\La\u00E7os condicionais\\Exercicio06\\Exercicio06\\Program.cs*",
+              "RelativeToolTip": "Exercicio06\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T04:30:05.461Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
