@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\exercicio2\\",
+  "WorkspaceRootPath": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\Vari\u00E1veis e Operadores\\exercicio2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A701D939-9F36-4282-B1CA-A72CDDCA2C7B}|exercicio2\\exercicio2.csproj|c:\\users\\rebek\\onedrive\\documentos\\tcc\\tcc estudos\\exercicio2\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A701D939-9F36-4282-B1CA-A72CDDCA2C7B}|exercicio2\\exercicio2.csproj|c:\\users\\rebek\\onedrive\\documentos\\tcc\\tcc estudos\\vari\u00E1veis e operadores\\exercicio2\\exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A701D939-9F36-4282-B1CA-A72CDDCA2C7B}|exercicio2\\exercicio2.csproj|solutionrelative:exercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\exercicio2\\exercicio2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\Vari\u00E1veis e Operadores\\exercicio2\\exercicio2\\Program.cs",
               "RelativeDocumentMoniker": "exercicio2\\Program.cs",
-              "ToolTip": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\exercicio2\\exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\Vari\u00E1veis e Operadores\\exercicio2\\exercicio2\\Program.cs",
               "RelativeToolTip": "exercicio2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-15T14:26:25.122Z",
               "EditorCaption": ""
