@@ -1,0 +1,15 @@
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\bin\Debug\net8.0\calculadoracsharp.exe
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\bin\Debug\net8.0\calculadoracsharp.deps.json
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\bin\Debug\net8.0\calculadoracsharp.runtimeconfig.json
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\bin\Debug\net8.0\calculadoracsharp.dll
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\bin\Debug\net8.0\calculadoracsharp.pdb
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\obj\Debug\net8.0\calculadoracsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\obj\Debug\net8.0\calculadoracsharp.AssemblyInfoInputs.cache
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\obj\Debug\net8.0\calculadoracsharp.AssemblyInfo.cs
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\obj\Debug\net8.0\calculadoracsharp.csproj.CoreCompileInputs.cache
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\obj\Debug\net8.0\calculadoracsharp.sourcelink.json
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\obj\Debug\net8.0\calculadoracsharp.dll
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\obj\Debug\net8.0\refint\calculadoracsharp.dll
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\obj\Debug\net8.0\calculadoracsharp.pdb
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\obj\Debug\net8.0\calculadoracsharp.genruntimeconfig.cache
+C:\Users\rebek\OneDrive\Documentos\TCC\TCC estudos\Laços condicionais\calculadoracsharp\calculadoracsharp\obj\Debug\net8.0\ref\calculadoracsharp.dll

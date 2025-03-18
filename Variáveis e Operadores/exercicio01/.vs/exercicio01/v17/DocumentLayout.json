@@ -3,8 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\Vari\u00E1veis e Operadores\\exercicio01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68B76A63-D6E0-4D15-A241-96620F959EFD}|exercicio01\\exercicio01.csproj|c:\\users\\rebek\\onedrive\\documentos\\tcc\\tcc estudos\\vari\u00E1veis e operadores\\exercicio01\\exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68B76A63-D6E0-4D15-A241-96620F959EFD}|exercicio01\\exercicio01.csproj|solutionrelative:exercicio01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\Vari\u00E1veis e Operadores\\exercicio2\\exercicio2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\Vari\u00E1veis e Operadores\\exercicio01\\exercicio01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:exercicio01\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,6 +22,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\Vari\u00E1veis e Operadores\\exercicio2\\exercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\exercicio2\\exercicio2\\Program.cs",
+              "ToolTip": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\Vari\u00E1veis e Operadores\\exercicio2\\exercicio2\\Program.cs",
+              "RelativeToolTip": "..\\exercicio2\\exercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T20:27:01.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\Vari\u00E1veis e Operadores\\exercicio01\\exercicio01\\Program.cs",
               "RelativeDocumentMoniker": "exercicio01\\Program.cs",
