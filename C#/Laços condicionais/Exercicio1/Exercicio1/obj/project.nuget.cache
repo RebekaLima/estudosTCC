@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1KCIA7wU4/c=",
+  "dgSpecHash": "hgDGN3JlyJY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\Laços condicionais\\Exercicio1\\Exercicio1\\Exercicio1.csproj",
+  "projectFilePath": "C:\\Users\\rebek\\OneDrive\\Documentos\\TCC\\TCC estudos\\C#\\Laços condicionais\\Exercicio1\\Exercicio1\\Exercicio1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rebek\\.nuget\\packages\\microsoft.net.sdk.compilers.toolset\\9.0.201\\microsoft.net.sdk.compilers.toolset.9.0.201.nupkg.sha512",
     "C:\\Users\\rebek\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.14\\microsoft.windowsdesktop.app.ref.8.0.14.nupkg.sha512",
